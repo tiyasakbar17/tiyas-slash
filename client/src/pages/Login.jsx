@@ -79,7 +79,7 @@ function LoginPage() {
 					</div>
 					<div className="login-side">
 						<div className="text-center">
-							<h3>Selamat Datang</h3>
+							<h3>Welcome</h3>
 						</div>
 						<div className="shadow p-3 mb-5 bg-white rounded">
 							<div className="card text-white bg-primer mb-3 main-item pointer">
